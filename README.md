@@ -6,5 +6,5 @@
 - 💬 Ask me about how to get involved in the [Olimpiada Mexicana de Informática](https://github.com/ComiteMexicanoDeInformatica/)
 - 📫 How to reach me: https://keybase.io/pacharrin
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm into cooking and kinfe sharpening
+- ⚡ Fun fact: I'm into cooking and knife sharpening
 - Here is a more [traditional CV](https://github.com/pacharrin/pacharrin/blob/master/CV%20Alexis%20Cervantes.pdf)
