@@ -7,4 +7,4 @@
 - 📫 How to reach me: https://keybase.io/pacharrin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm into cooking and kinfe sharpening
-- Here is a more [traditional CV](CV Alexis Cervantes.pdf)
+- Here is a more [traditional CV](https://github.com/pacharrin/pacharrin/blob/master/CV%20Alexis%20Cervantes.pdf)
